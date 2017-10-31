@@ -1,0 +1,13 @@
+﻿
+deletion_maxLength:50
+deletion_minLength:20
+insertion_maxLength:60
+insertion_minLength:25
+startPos:25000
+endPos:975000
+indelNumber:40
+indelType:2
+ref_name:ref.txt
+oneIndelMAXNums:40
+oneIndelMINNums:20
+oneNums:50
